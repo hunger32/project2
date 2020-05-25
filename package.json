@@ -1,0 +1,8 @@
+{
+  "name": "project2",
+  "version": "1.22.4",
+  "main": "index.js",
+  "repository": "https://github.com/hunger32/project2",
+  "author": "hunger32 <nod032@rambler.ru>",
+  "license": "MIT"
+}
